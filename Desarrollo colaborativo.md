@@ -60,8 +60,19 @@ Esto te permite establecer varios flujos de trabajo que no son posibles en siste
 
 Ejemplos de sistemas de versiones distribuidos:
 
-Git: Como ya lo hemos tratado en el curso vamos a obviarlo
+Git: (Como ya lo hemos tratado en el curso vamos a obviarlo)
 
 Mercurial:
+Sistema de control de versiones multiplataforma. Hace uso del lenguaje de programación Python, pero incluye una implementación binaria de diff escrita en C. Escrito originalmente para funcionar sobre GNU/Linuxen la actualidad ha sido adaptado para Windows, Mac OS X y la mayoría de otros sistemas tipo Unix. Mercurial es, sobre todo, un programa para la línea de comandos. 
+Todas las operaciones de Mercurial se invocan como opciones dadas a su programa motor, hg .
+El código fuente se encuentra disponible bajo los términos de la licencia GNU GPL versión 2, lo que clasifica a Mercurial como software libre.
+Al igual que git y Monotone, Mercurial usa resúmenes SHA-1 para identificar revisiones.
+Para el acceso a repositorios mediante red, Mercurial usa un protocolo eficiente, basado en HTTP, que persigue reducir el tamaño de los datos a transferir, así como la proliferación de peticiones y conexiones nuevas. Mercurial puede funcionar también sobre ssh, siendo el protocolo muy similar al basado en HTTP.
+Mercurial incluye un gran rendimiento y escalabilidad, un desarrollo completamente distribuido sin necesidad de un servidor, gestión robusta de archivos tanto de texto como binarios y capacidades avanzadas de ramificación e integración, todo ello manteniendo sencillez conceptual. Incluye una interfaz web integrada.
 
 Bazaar:
+Sistema de control de versiones diseñado para facilitar la contribución en proyectos de software libre y opensource.
+Bazaar funciona en GNU/Linux, UNIX, Windows y OS X, está programado en Python y es software libre y parte del proyecto GNU.
+La operación básica para el control de versiones distribuido es el branching y merging, por lo que Bazaar está diseñado en gran parte para asegurarse que se puedan hacer branch y merge de forma eficiente entre individuos y equipos, usando ramas locales o remotas. Para los desarrolladores, hay un API de extensión y una suite de plugins para permitirles extender Bazaar, y bzrlib facilita la tarea de incluir la funcionalidad de Bazaar en sus propias aplicaciones GPL.
+Puede representar las operaciones de cualquier otro sistema, y hay plugins que permiten leer el log de versiones para un proyecto en Bazaar desde Subversion, Git, CVS y otros proyectos.
+
