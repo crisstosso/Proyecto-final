@@ -1,6 +1,7 @@
+#Desallorro colaborativo
+
+
 #Desallorro de software colaborativo
-
-
 
 #¿Qué es el desarrollo de software colaborativo?
 
