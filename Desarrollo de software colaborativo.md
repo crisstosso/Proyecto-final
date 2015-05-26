@@ -78,3 +78,31 @@ Es una herramienta que incluye una Wiki, un gestor documental y un gestor de inc
 [Google Docs](https://docs.google.com)
 
 Es un sistema en línea de edición de documentos. Permite crear y compartir fácilmente trabajo en la red: hojas de cálculo, documentos, presentaciones, formas y dibujos. Además, estas herramientas dejan que todo el mundo pueda trabajar de forma simultánea en el mismo archivo.
+
+
+[Google Calendar](https://www.google.com/calendar/)
+
+Es una aplicación de calendario compartido que permite establecer distintos tipos de acceso. Además, posibilita la gestión compartida de agendas, se integra con el correo electrónico y puede funcionar con otras aplicaciones calendario.
+
+
+[Google Sites](https://sites.google.com/)
+Es una herramienta que permite crear una página web, por ejemplo, para intranets y equipos, donde centralizar documentos, presentaciónes y otros archivos, así como recibir alertas de las novedades y documentos subidos al portal.
+
+
+[Remember the milk](https://www.rememberthemilk.com/)
+
+Es una aplicación web que permite administrar listas de tareas y su tiempo de gestión desde cualquier ordenador o dispositivo móvil. Cuenta con clasificación de tareas mediante etiquetas, compartición de las mismas y envío de recordatorio de tareas mediante SMS y aplicaciones de mensajería instantánea.
+
+
+[Join.me](https://www.join.me/)
+
+Es una herramienta para compartir el contenido de la pantalla de un ususario con otros. Permite mantener reuniones con audioconferencia, chats con todos los participantes o con grupos, ver los participantes de la sesión, permitiendo ceder el control de la pantalla, enviarle un archivo o expulsarlo.
+
+
+[EVLY](http://www.evly.com/)
+
+Se trata de una plataforma para crear webs de crowsourcing siguiendo un esquema predeterminado:
+- Creación de resúmenes
+- Invitación de participantes
+- Revisión de ideas
+- Implementación de las ideas generadas
